@@ -1,5 +1,2 @@
 Hi
-one
-two
-three
 
